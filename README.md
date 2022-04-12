@@ -11,7 +11,9 @@ return 0;
 ## Riga Simo 
 
 ```
-Modifica aggiunta da Simone tipo poco fa. Ciao a tutti da Simo;```
+Modifica aggiunta da Simone tipo poco fa. 
+
+Ciao a tutti da Simo;
 return 0;
 
 ```
