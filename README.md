@@ -11,10 +11,14 @@ return 0;
 ## Riga Simo 
 
 ```
+Ciao a tutti da Simo;
+return 0;
 ```
 
 ## Riga Luca 
 
 ```
-Modifica: Ciao, mi chiamo Luca.
+Ciao, mi chiamo Luca.;
+return 0;
+
 ```
