@@ -3,7 +3,9 @@
 ## Riga Dario
 
 ```
-Metodo: Ciao a tutti da Dario
+Metodo: 
+Ciao a tutti da Dario;
+return 0;
 ```
 
 ## Riga Simo 
